@@ -8,8 +8,8 @@ var navigate = (function() {
 })();
 
 const $colorPickerForm = document.querySelector('.color-picker-form');
-/*const $colorInput = document.querySelector('.color-input');
-const $avatar = document.querySelector('.avatar');
+const $colorInput = document.querySelector('.color-input');
+/*const $avatar = document.querySelector('.avatar');
 
 function generateAvatar() {
   reset();
