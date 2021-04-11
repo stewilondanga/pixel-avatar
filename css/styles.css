@@ -131,11 +131,11 @@ body {
   background: #ddd;
 }
 
-/*.pixel.filled {
+.pixel.filled {
   background: var(--pixel-color);
 }
 
-.color-picker-form {
+/*.color-picker-form {
   margin-top: 50px;
 }
 
