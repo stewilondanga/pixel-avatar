@@ -31,7 +31,7 @@ function reset() {
 }
 
 
-/*$colorPickerForm.addEventListener('submit', (event) => {
+$colorPickerForm.addEventListener('submit', (event) => {
   event.preventDefault();
   const pickedColor = $colorInput.value;
   $avatar.style.setProperty('--pixel-color', pickedColor);
