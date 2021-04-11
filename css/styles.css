@@ -111,9 +111,6 @@ body {
   transition-delay: 0.4s;
 }
 
-/*
-
-
 .container {
   background: #333;
   display: flex;
@@ -123,7 +120,7 @@ body {
   min-height: 100%;
 }
 
-.avatar {
+/*.avatar {
   --pixel-color: #8000ff;
   border-spacing: 0;
 }
