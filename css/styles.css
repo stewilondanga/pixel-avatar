@@ -135,11 +135,11 @@ body {
   background: var(--pixel-color);
 }
 
-/*.color-picker-form {
+.color-picker-form {
   margin-top: 50px;
 }
 
-.generate-avatar-btn {
+/*.generate-avatar-btn {
   background-color: #fff;
   border: none;
   padding: 4px;
