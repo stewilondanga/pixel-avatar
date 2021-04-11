@@ -139,7 +139,7 @@ body {
   margin-top: 50px;
 }
 
-/*.generate-avatar-btn {
+.generate-avatar-btn {
   background-color: #fff;
   border: none;
   padding: 4px;
@@ -147,7 +147,7 @@ body {
   transition: all 0.5s ease-in;
 }
 
-.generate-avatar-btn:hover, .generate-avatar-btn:focus {
+/*.generate-avatar-btn:hover, .generate-avatar-btn:focus {
   background-color: #eee;
 }
 
