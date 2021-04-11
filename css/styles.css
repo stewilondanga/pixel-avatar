@@ -1,3 +1,7 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -107,9 +111,6 @@
   transition-delay: 0.4s;
 }
 
-*, *:before, *:after {
-  box-sizing: border-box;
-}
 
 html, body {
   height: 100%;
