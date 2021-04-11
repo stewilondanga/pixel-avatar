@@ -6,6 +6,10 @@ html, body {
   height: 100%;
 }
 
+body {
+  margin: 0;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -116,9 +120,6 @@ html, body {
 }
 
 
-body {
-  margin: 0;
-}
 
 .container {
   background: #333;
