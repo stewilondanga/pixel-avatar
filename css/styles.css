@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html, body {
+  height: 100%;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -111,10 +115,6 @@
   transition-delay: 0.4s;
 }
 
-
-html, body {
-  height: 100%;
-}
 
 body {
   margin: 0;
