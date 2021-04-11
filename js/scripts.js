@@ -9,9 +9,9 @@ var navigate = (function() {
 
 const $colorPickerForm = document.querySelector('.color-picker-form');
 const $colorInput = document.querySelector('.color-input');
-/*const $avatar = document.querySelector('.avatar');
+const $avatar = document.querySelector('.avatar');
 
-function generateAvatar() {
+/*function generateAvatar() {
   reset();
   for (let i = 0; i < 8; i += 1) {
   const $tr = $avatar.querySelector(`tr:nth-of-type(${i + 1})`);
