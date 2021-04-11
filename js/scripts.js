@@ -1,13 +1,13 @@
-/*var navigate = (function() {
-	$('.dd').toggle();
-	$('.dd_btn').click(function() {
-		var dataName = $(this).attr('data-name');
-		$('.dd').hide();
-		$('.' + dataName).toggle();
-	});
+var navigate = (function() {
+  $('.dd').toggle();
+  $('.dd_btn').click(function() {
+    var dataName = $(this).attr('data-name');
+    $('.dd').hide();
+    $('.' + dataName).toggle();
+  });
 })();
 
-const $colorPickerForm = document.querySelector('.color-picker-form');
+/*const $colorPickerForm = document.querySelector('.color-picker-form');
 const $colorInput = document.querySelector('.color-input');
 const $avatar = document.querySelector('.avatar');
 
